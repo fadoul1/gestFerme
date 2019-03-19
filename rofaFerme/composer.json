@@ -1,0 +1,17 @@
+{
+    "name": "binome1/rofa-ferme",
+    "description": "Description of project rofaFerme.",
+    "authors": [
+        {
+            "name": "fad",
+            "email": "fadouro@email.here"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app",
+            "Core\\": "core"
+        }
+    },
+    "require": {}
+}
